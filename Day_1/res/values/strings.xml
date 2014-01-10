@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Day_1</string>
+    <string name="hello_world">我是韩敏!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="phone">18764881192</string>
+    <string name="web">www.baidu.com</string>
+    <string name="please_input">Please Input</string>
+    <string name="email">853049349@qq.com</string>
+
+</resources>
