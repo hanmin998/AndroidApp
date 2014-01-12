@@ -3,7 +3,7 @@ AndroidApp
 
 Some Simple  Android-Apps
 --------------------------------
-        Android实习实例。
+        注释：Day_x——yy为实习第x天的第yy个实例。
 -------------------------------    
 ### Day_1：
     主要介绍了<LinearLayout></LinearLayout>布局下的各种控件的相关属性，
