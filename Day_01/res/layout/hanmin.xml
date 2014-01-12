@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">"
+    
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/b"
+        android:scaleType="matrix"
+        />
+
+      <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/b"
+        android:scaleType="fitXY"
+        android:layout_marginLeft="10dp"
+        />
+       <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/b"
+        android:scaleType="fitStart"
+        />
+       <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/b"
+        android:scaleType="fitEnd"
+        />
+       <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/b"
+        android:scaleType="fitCenter"
+        />
+       <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/b"
+        android:scaleType="center"
+        />
+       <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/b"
+        android:scaleType="centerCrop"
+        />
+       <!-- 楼下是等比例拉伸 -->
+       <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/b"
+        android:scaleType="centerInside"
+        android:background="#ff0000"
+        />
+</LinearLayout>
