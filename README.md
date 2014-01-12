@@ -3,8 +3,9 @@ AndroidApp
 
 Some Simple  Android-Apps
 --------------------------------
-    Android实习实例。
-    ###Day_1：
+        Android实习实例。
+-------------------------------    
+    ### Day_1：
     主要介绍了<LinearLayout></LinearLayout>布局下的各种控件的相关属性，
     <LinearLayout>:
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -40,7 +41,7 @@ Some Simple  Android-Apps
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:hint="@string/please_input"/>"
-        ###Day_01：
+        ### Day_01：
         关于微信的登陆页面实现。
 
 
